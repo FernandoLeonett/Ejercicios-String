@@ -2,7 +2,7 @@
 document.getElementById('divPantalla2').style.display = 'none';
 
 
-// Ejercicio 1
+// Ejercicio 1 servira esto
 document.getElementById('btnEj1').addEventListener('click', btnHandlerj1);
 function btnHandlerj1() {
 
