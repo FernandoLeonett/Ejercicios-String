@@ -2,7 +2,7 @@
 document.getElementById('divPantalla2').style.display = 'none';
 
 
-// Ejercicio 1 servira esto
+// Ejercicio 1 esto es un cambio hecho en github si lo ves en visual studio es porque funciono
 document.getElementById('btnEj1').addEventListener('click', btnHandlerj1);
 function btnHandlerj1() {
 
